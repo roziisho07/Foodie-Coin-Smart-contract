@@ -1,2 +1,2 @@
 # Foodie-Coin-Smart-contract
-10k NFT Smart contract
+Foodie coin Smart contract on for ethereum network 
